@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hello World" },
+    { "id": 2, "title": "React + JSON Server" },
+    { "id": 3, "title": "Hello World 2 " },
+    { "id": 4, "title": "React + JSON Server 2 " },
+    { "id": 5, "title": "Hello World 3 " },
+    { "id": 6, "title": "React + JSON Server 4" }
+  ]
+}
